@@ -1479,10 +1479,6 @@ html {
   height: 18rem;
 }
 
-.h-auto {
-  height: auto;
-}
-
 .h-full {
   height: 100%;
 }
@@ -1517,10 +1513,6 @@ html {
 
 .w-3\/4 {
   width: 75%;
-}
-
-.w-32 {
-  width: 8rem;
 }
 
 .w-4 {
@@ -2037,6 +2029,10 @@ html {
   line-height: 1.75rem;
 }
 
+.font-black {
+  font-weight: 900;
+}
+
 .font-bold {
   font-weight: 700;
 }
@@ -2047,10 +2043,6 @@ html {
 
 .font-semibold {
   font-weight: 600;
-}
-
-.font-black {
-  font-weight: 900;
 }
 
 .uppercase {
